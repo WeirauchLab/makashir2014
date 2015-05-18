@@ -1,5 +1,5 @@
-README meta_analysis_code.R (makashir2014)
-==========================================
+README `meta_analysis_code.R` (makashir2014)
+============================================
 
 The `meta_analysis_code.R` program takes m gene expression datasets from _m_
 different studies as an input and performs meta-analysis of differential gene
@@ -40,8 +40,9 @@ The following output files will be produced:
    that gene pair
 
 5. `p_values`
-     matrix indicating the p values of  differential co-expression
-     meta-analysis for that gene pair 
+
+   matrix indicating the p values of  differential co-expression
+   meta-analysis for that gene pair 
 
 Note that this program does not adjust the p-values for multiple hypothesis
 testing, this needs to be done separately. 
